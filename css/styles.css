@@ -1,0 +1,153 @@
+body {
+  margin: 0;
+  padding: 0;
+  background: #fafffe;
+  font-family: "Inter", "Arial", sans-serif;
+}
+
+.top-logo {
+  width: 50px;
+  height: 35px;
+}
+
+.right-arrow {
+  width: 22px;
+  height: 16px;
+}
+
+.headline-animation {
+  width: 800px;
+  height: 400px;
+}
+
+.animation-right {
+  padding-top: 100px;
+}
+
+.top{
+  display: flex;
+  justify-content: space-between;
+  width: 1120px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 80px;
+  margin-bottom: 130px;
+  align-items: center;
+}
+
+.top-left {
+  display: flex;
+  align-items: center;
+}
+
+.top-nav {
+  display: flex;
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+  margin-left: 121px;
+}
+
+.top-nav li {
+  margin-right: 40px;
+}
+
+.top a {
+  text-decoration: none;
+  font-size: 16px;
+  color: #4B5D68;
+}
+
+.top-link {
+  display: inline-block;
+  color: #212353;
+  box-shadow: 0px 5px 5px rgba(75, 93, 104, 0.1);
+  font-weight: bold;
+  padding: 17px 29px;
+  border-radius: 50px;
+  background-color: #fff;
+}
+
+.top-link img {
+  margin-left: 20px;
+}
+
+.active {
+  font-weight: bold;
+  color: #212353;
+}
+
+.headline {
+  width: 1120px;
+  box-sizing: border-box;
+  margin-left: auto;
+  margin-right: auto;
+  display: flex;
+}
+
+.headline-text {
+  width: 645px;
+}
+
+.headline-text h1 {
+  color: #212353;
+  font-size: 60px;
+  line-height: 110%;
+}
+
+.headline-text p {
+  width: 380px;
+  margin-top: 50px;
+  font-size: 18px;
+  font-weight: 500;
+  color: #4B5D68;
+  line-height: 160%;
+  padding-bottom: 50px;
+}
+
+.headline-text a {
+  text-decoration: none;
+  color: #FFFFFF;
+  padding: 16px 37px;
+  background: #9C69E2;
+  border-radius: 50px;
+}
+
+.bank-info {
+  display: flex;
+  justify-content: space-between;
+  width: 1117px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 100px;
+  margin-bottom: 100px;
+  background-color: rgba(240, 99, 184, 0.15);
+  border-radius: 50px;
+}
+
+.bank-text {
+  width: 475px;
+  padding: 90px;
+
+}
+
+.bank-text h2 {
+  font-weight: bold;
+  font-size: 40px;
+  line-height: 130%;
+  color: #212353;
+}
+
+.bank-text p {
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 160%;
+  color: #4B5D68;
+}
+
+bank-animation {
+  width: 477px;
+  height: 504px;
+}
+
+
